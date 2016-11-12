@@ -1,0 +1,5 @@
+This is a small file test!
+
+File Sending has been tested with files up to 1MB
+
+THIS FILE HAS 5 LINES
